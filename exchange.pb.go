@@ -240,7 +240,7 @@ const file_exchange_proto_rawDesc = "" +
 	"\x05Empty2\xb0\x01\n" +
 	"\x0fExchangeService\x12D\n" +
 	"\x10GetExchangeRates\x12\x0f.exchange.Empty\x1a\x1f.exchange.ExchangeRatesResponse\x12W\n" +
-	"\x1aGetExchangeRateForCurrency\x12\x19.exchange.CurrencyRequest\x1a\x1e.exchange.ExchangeRateResponseB)Z'github.com/proto-exchange/exchange_grpcb\x06proto3"
+	"\x1aGetExchangeRateForCurrency\x12\x19.exchange.CurrencyRequest\x1a\x1e.exchange.ExchangeRateResponseB6Z4github.com/kolochik72ru/proto-exchange/exchange_grpcb\x06proto3"
 
 var (
 	file_exchange_proto_rawDescOnce sync.Once
