@@ -1,4 +1,4 @@
-module proto-exchange
+module github.com/kolochik72ru/proto-exchange
 
 go 1.24.4
 
